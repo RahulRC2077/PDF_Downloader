@@ -1,3 +1,4 @@
 # PDF_Downloader
 PDF Downloader using Shell Script
-Just give the URl of the page from where you want to download the PDFs and you will be able to download all the PDFs in one click.
+-Developed a specialized Shell script to automate the download of PDF files from specified URLs.
+-Leveraged command-line utilities such as wget or curl to retrieve PDFs directly from provided links
